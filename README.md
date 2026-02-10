@@ -27,8 +27,7 @@ This project demonstrates API integration, asynchronous JavaScript, and dynamic 
 
 1. Designed the application layout using HTML  
 2. Styled the UI with CSS for clarity and responsiveness  
-3. Integrated the OpenWeatherMap API for weather data  
-4. Used asynchronous JavaScript (`fetch`, `async/await`) for API requests  
+3. Integrated the OpenWeatherMap API for weather data   
 5. Dynamically updated the UI based on API response  
 6. Handled basic error cases like invalid city names  
 
